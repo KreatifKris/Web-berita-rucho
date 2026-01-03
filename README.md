@@ -9,7 +9,7 @@
 <body>
   <marquee><h2>Selamat datang di web berita up to date, mohon untuk tidak menyebarkan berita hoaks. Apabila diketahui ada penyebaran berita hoax terkait web ini, maka akan ditindak tegas</h2></marquee>
 
-<h1><center>Kumpulan Berita Terkini</h1></center>
+<h1><center>Kumpulan Berita Terkini</center></h1>
     <ul type="square">
        <li><a href="Biografi Penulis.html">Profil penulis</a></li>
        <li><a href="support.html">Didukung oleh</a></li>
@@ -23,7 +23,7 @@
 <hr>
 
  <ol type="1">
-   <h2><li>KUHP Baru Resmi Berlaku, Menandai Pergeseran Hukum di Indonesia</h2></li>
+   <h2><li>KUHP Baru Resmi Berlaku, Menandai Pergeseran Hukum di Indonesia</li></h2>
  
 <p>Indonesia resmi memberlakukan Kitab Undang-Undang Hukum Pidana (KUHP) baru mulai 2 Januari 2026, menggantikan undang-undang era kolonial Belanda yang telah dipakai sejak kemerdekaan. KUHP baru memasukkan sejumlah aturan yang mencerminkan nilai sosial dan budaya lokal, termasuk pidana atas hubungan seksual di luar pernikahan dan penghinaan terhadap presiden dan lembaga negara. Pemerintah menyatakan bahwa reformasi ini bertujuan mendekatkan sistem hukum pada nilai masyarakat Indonesia modern, meskipun sejumlah kelompok hak asasi manusia mengkhawatirkan dampaknya terhadap kebebasan individu.</p>
 
